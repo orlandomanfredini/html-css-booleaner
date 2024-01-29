@@ -1,0 +1,138 @@
+*{
+    font-family: 'Abel', sans-serif;
+    font-family: 'Jost', sans-serif;
+    font-family: 'Nabla', system-ui;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+  background-color: rgb(236, 216, 216);
+}
+
+header{
+    height: 100px;
+    background-size: contain;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(228, 195, 135);;
+    
+}
+
+.center-logo{
+   width: 70%;
+   margin: auto;
+   text-align: center;
+}
+.logo{
+    width: 300px;
+    margin: auto;
+}
+
+.main-box{
+    width: 70%;
+    margin: auto;
+    border: 1px solid black;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+.credit{
+    color: gray;
+}
+
+.fonte{
+    color: rgb(127, 187, 255);
+}
+
+.data-articolo{
+    color: gray;
+}
+
+.main-photo img{
+    width: 60%;
+}
+
+.tim{
+    margin-top: 20px;
+}
+
+.tim img {
+    width: 100%;
+   
+}
+
+.underline{
+    background-color: rgb(127, 187, 255);;
+}
+
+.fonti-foto{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 12px;
+    color: rgb(127, 187, 255); ;
+}
+
+.button{
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+.button a{
+    background-color:rgb(127, 187, 255); 
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+    margin-top: 20px;
+    
+}
+
+.button a:hover{
+    color: white;;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.tr-row{
+    background-color:rgb(127, 187, 255);
+    color: white;
+}
+
+.td-row{
+    background-color:rgb(216, 176, 102); ;
+
+}
+
+.td-orange-row{
+    background-color:rgb(127, 187, 255);  
+}
+
+aside h3{
+    margin: auto;
+    width: 200px;
+    color: black;
+    background-color:rgb(216, 176, 102);
+    border-radius: 5px;
+    
+}
+
+.aside-content{
+    margin-top: 40px;
+}
+
+.aside-photo{
+    width: calc(100% / 2 - 100px);
+    margin-left: 50px;
+    
+}
+
+
+
