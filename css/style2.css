@@ -13,7 +13,8 @@ header{
     height: 100px;
     background-size: contain;
     background-image: url(../img/pattern.png);
-    background-color: rgb(228, 195, 135);;
+    background-color: rgb(228, 195, 135);
+    border: 1px solid rgb(233, 161, 29);
     
 }
 
@@ -31,6 +32,7 @@ header{
     width: 70%;
     margin: auto;
     border: 1px solid black;
+    margin-top: 30px;
 }
 
 h1{
@@ -107,7 +109,7 @@ table{
 }
 
 .td-row{
-    background-color:rgb(216, 176, 102); ;
+    background-color:rgb(216, 176, 102);
 
 }
 
