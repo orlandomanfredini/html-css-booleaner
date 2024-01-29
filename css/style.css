@@ -44,3 +44,25 @@ h1{
 .underline{
     background-color: yellow;
 }
+
+table{
+    width: 100%;
+    margin: auto;
+    
+}
+
+thead{
+    background-color: rgb(0, 119, 255);
+    
+}
+
+.first-row{
+    color: white;
+   
+}
+
+.second-row , .fourth-row{
+    background-color: rgb(0, 225, 255);
+}
+
+
