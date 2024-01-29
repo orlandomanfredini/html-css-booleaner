@@ -29,7 +29,7 @@ header{
 }
 
 .main-box{
-    width: 70%;
+    width: 80%;
     margin: auto;
     border: 1px solid black;
     margin-top: 30px;
@@ -54,7 +54,7 @@ h1{
 
 .main-photo img{
     width: 60%;
-}
+    }
 
 .tim{
     margin-top: 20px;
@@ -62,6 +62,7 @@ h1{
 
 .tim img {
     width: 100%;
+    margin-top: 20px;
    
 }
 
@@ -74,7 +75,7 @@ h1{
     padding: 0;
     list-style-type: none;
     font-size: 12px;
-    color: rgb(127, 187, 255); ;
+    color:black ;
 }
 
 .button{
@@ -117,9 +118,13 @@ table{
     background-color:rgb(127, 187, 255);  
 }
 
+aside{
+    text-align: center;
+}
+
 aside h3{
     margin: auto;
-    width: 200px;
+    width: 250px;
     color: black;
     background-color:rgb(216, 176, 102);
     border-radius: 5px;
