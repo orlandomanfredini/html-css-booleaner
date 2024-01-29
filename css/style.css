@@ -1,6 +1,5 @@
 .main-box{
     width: 70%;
-    height: 100%;
     margin: auto;
 }
 
@@ -10,6 +9,12 @@ header{
     background-color: rgb(67, 133, 240);
     background-image: url(../img/pattern.png);
     background-size: contain;
+    
+}
+
+.center-logo{
+    width: 70%;
+    margin: auto;
 }
 
 .logo{
@@ -49,6 +54,7 @@ table{
     width: 100%;
     margin: auto;
     border-collapse: collapse;
+    
     
 }
 
